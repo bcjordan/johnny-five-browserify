@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "johnny-five": "^0.9.37"
+    "johnny-five": "^0.9.41"
   }
 }
